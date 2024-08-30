@@ -49,4 +49,4 @@ without explicit permission from the author.
 
 For permissions, please contact:
 leogiulianidesantis@gmail.com
-+39 392 064 7910# hotels
++39 392 064 7910
