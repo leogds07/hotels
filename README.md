@@ -28,10 +28,6 @@ What this project does is automate this process, asking the user for some infos,
 
 * TripAdvisor API to find the hotels' websites -> TripAdvisor was giving out only 10 hotels per request, most of the time not providing neither the e-mail nor the website
 
-## How to Install and Run the Project
-
-In progress...
-
 ## Credits
 
 I was he only one to work at this project, but I have to mention:
